@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <schooldistrict>
+        <name>School Name</name>
+        <url>url</url>
+        <county>County</county>
+        <zipcode>12345</zipcode>
+        <applied>0</applied>
+        <searchable>
+        </searchable>
+        <address>Location</address>
+    </schooldistrict>
+</root>
